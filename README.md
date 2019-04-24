@@ -1,1 +1,3 @@
 # testni_repo
+
+Opis projekta ...
